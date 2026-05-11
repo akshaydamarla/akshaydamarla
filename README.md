@@ -13,8 +13,8 @@ Currently focused on improving my backend development, cloud skills, and softwar
 
 Fun Facts:
 
-  • 🏆 Academic Topper
-  • 💡 Passionate about scalable backend systems
-  • ☁️ Exploring cloud technologies and deployment
-  • 📚 Consistently learning and building new projects
-  • 🚀 Goal: Become a high-impact Software Engineer
+* 🏆 Academic Topper
+* 💡 Passionate about scalable backend systems
+* ☁️ Exploring cloud technologies and deployment
+* 📚 Consistently learning and building new projects
+* 🚀 Goal: Become a high-impact Software Engineer
