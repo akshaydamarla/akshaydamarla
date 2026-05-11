@@ -12,6 +12,7 @@ I’ve built projects like a Student Portfolio System, Attendance Management Sys
 Currently focused on improving my backend development, cloud skills, and software engineering knowledge.
 
 Fun Facts:
+
   • 🏆 Academic Topper
   • 💡 Passionate about scalable backend systems
   • ☁️ Exploring cloud technologies and deployment
