@@ -1,4 +1,4 @@
-Hey there! 👋  
+Hey there!  
 I'm Akshay, a Full Stack Developer and B.Tech CSE student at KL University, India.
 
 I enjoy building real-world web applications and turning ideas into deployed products.  
